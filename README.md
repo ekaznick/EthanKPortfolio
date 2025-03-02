@@ -1,4 +1,4 @@
-Projects
+# Projects
 
 1. Jellyfin Server:
         Hardware setup and configuration 
