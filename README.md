@@ -10,8 +10,6 @@ Projects
         Data acquisition and cleaning
         Model development and training
         Performance evaluation and analysis
-        Data visualization (if applicable)
-   
 
 4. React and .NET Applications:
         Software development skills (React, .NET)
